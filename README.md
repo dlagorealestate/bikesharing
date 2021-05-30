@@ -21,3 +21,10 @@
 
 
   * After getting all the data, it is clear this is a great investment opportunity for the investors. With 2.3 million trips in one month alone, it is a goldmine. Especially with a city like NYC where many people do not have vehicles, they can definitely capitlaize on this. Making Bikeshare an efficient and seemless way to rent a bike and park where they want will increase the likelihood of people using it.
+
+
+
+
+## Link to Dashboard 
+
+https://public.tableau.com/views/Bikesharing_16221733748690/BikeVisualization?:language=en-US&:display_count=n&:origin=viz_share_link
